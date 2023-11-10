@@ -1,0 +1,42 @@
+王铭东:PyQt5 快速入门
+白月黑羽编程:Python Qt 图形界面编程 - PySide2 PyQt5 PyQt PySide
+啥都会一点的研究生:PyQt5从入门到实践
+落大人无法无天:Python Pyqt5最详细入门基础教程(一)
+C_Konchok:数据库+PyQt5设计应用全过程
+兵慌码乱:【GUI学生管理系统】基于Python+PyQt5+MySQL的GUI学生管理系统项目实战教程
+Python调包侠-Bemake:【已完结】PySide6百炼成真，带你系统性入门Qt
+白月黑羽编程:Python Qt 图形界面程序开发项目实战   pyqt5 pyside2
+白月黑羽编程:工控系统 PyQt 项目实战 - PyQt5 PyQt6 PySide2 PySide6
+以教代学:python GUI设计 PyQt5从入门到实践
+ImportThis_:PyQt5界面美化 教程 QtDesigner
+编程不止Coding:PyQt5桌面开发从入门到精通
+液态酸橙:PyDracula 基于PySide6或PyQt6的扁平风python界面
+银角大王-武沛齐-真身:最最新的 pyqt5 教程，项目驱动学习，更高效（毕业设计推荐）。
+兵慌码乱:【图书管理系统】基于Python+PyQt5+SQLite/MySQL的图书管理系统项目实战教程
+C_Konchok:Python/PyQt5/Qtdesigner设计第一款桌面应用---全教程
+C_Konchok:Python/PyQt5/Qtdesigner设计简单网易云界面---全教程
+桩桩计算:【PyQt5教程】PyQt5基础系列课程（适合基础入门）
+letao9370:（2021实测可用）Python+Pycharm+PyQt5实现GUI设计简单操作
+萧曵__:Python-GUI编程-PyQt5 (少)
+C_Konchok:Python/PyQt5/Qtdesigner设计登录界面——包括登录和注册界面切换
+potentialzy:《Python GUI设计PyQt5从入门到实践》书籍配套视频
+之一Yo:PyQt-Fluent-Widgets: 基于 PyQt/PySide 的 Fluent Design 风格组件库
+34号大块:PyQT5快速安装使用入门（搭配QT Designer+Pycharm）
+有只小新:Python+Pyside/PyQt实现的GUI桌面应用
+带火星的小木条啊:Python-GUI编程-pyqt5最新详细教程（一）
+小然py57:Python Qt 图形界面编程 - PySide2 PyQt5 PyQt PySide（应用桌面开发）
+白月黑羽编程:Python Qt 控件  - 持续更新中 - PySide2 PyQt5 PyQt PySide Pyside6
+欲戴王冠必承其重-16:2023最新 python桌面应用开发（用pyqt5开发亚马逊价格监测平台）
+辣橙:Python图形界面 15分钟快速入门PySide/PyQt
+Leo在这:当YOLO遇上PyQt 【临时抱佛脚必备系列】
+iTxtd123:全网最全PyQt5开发实战教程
+景唯acr:YOLOv5检测界面-PyQt5实现
+Leo在这:9.4、用PyQt给Pytorch做一个好看的界面(源码分享)【小学生都会的Pytorch】
+Silverfox_J:PyQt5界面制作简单讲解
+Chaos超sir:Python GUI教程- PyDracula - 界面美化模板 - PySide_PyQt_Qt Designer_Freeze
+回不去的那个世界:零基础快速上手 PyQt5（Qt Designer）
+lizhuangdm:Pyqt5一小时速成精髓
+疯狂滴小黑:【Udemy付费课程】使用 PyQt6 和 Qt 设计器进行 Python GUI 开发（中英文字幕）
+萧曵__:PyQt5开发与实战
+兵慌码乱:【GUI酒店管理系统】基于Python+PyQt5+MySQL的GUI酒店管理系统项目实战教程
+王铭东:Python+ESP32 4988 机械臂 PyQt上位机 开源 配套课件（更新中）
